@@ -16,3 +16,5 @@ for i in range(1, 1000):
     if r > 150:
         min1 = min(min1, r)
 print(min1)
+
+## bank-ege.ru id: 23738 ##
